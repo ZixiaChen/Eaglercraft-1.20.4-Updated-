@@ -25,3 +25,7 @@
  - **Any portion of Mod Coder Pack and it's config files**
  - **Data that can be used alone to reconstruct portions of the game's source code**
  - **Code configured by default to allow users to play without owning a copy of Minecraft**
+
+# Making a client
+
+
