@@ -2,7 +2,7 @@
 
 ### Play real Minecraft 1.20.4 in your browser
 
-![EaglercraftX 1.20.4 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png)
+![EaglercraftX 1.20.4 Screenshot Main Menu]([https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png](https://github.com/ZixiaChen/Eaglercraft-1.20.4-Updated-/blob/main/Screenshot%202024-05-20%2012.38.48%20PM.png?raw=true))
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEE ASSIGNED TO STALK ME:
 
