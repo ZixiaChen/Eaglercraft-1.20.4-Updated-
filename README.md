@@ -1,4 +1,4 @@
-# Eaglercraft 1.20.4
+# (OUT DATED) Eaglercraft 1.20.4
 
 ### Play real Minecraft 1.20.4 in your browser
 
